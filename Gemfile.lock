@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.0.6)
+    rack-unreloader (1.6.0)
+    roda (2.1.0)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack-unreloader
+  roda
+
+BUNDLED WITH
+   2.0.1
